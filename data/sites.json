@@ -1,0 +1,57 @@
+{
+  "umm_al_jimal": {
+    "id": "umm_al_jimal",
+    "name": {
+      "ar": "أم الجمال - واحة البازلت الأسود",
+      "en": "Umm al-Jimal - Black Basalt Oasis"
+    },
+    "era": {
+      "ar": "النبطي، الروماني، البيزنطي، الأموي",
+      "en": "Nabataean, Roman, Byzantine, Umayyad"
+    },
+    "unesco": true,
+    "coordinates": { "lat": 32.3278, "lng": 36.3714 },
+    "audio": {
+      "ar": "assets/audio/umm_al_jimal_ar.mp3",
+      "en": "assets/audio/umm_al_jimal_en.mp3"
+    },
+    "description": {
+      "ar": "تُعتبر أم الجمال واحدة من أندر المدن الأثرية المبنية بالكامل من حجارة البازلت الأسود. تميزت بنظام هندسي فريد للحصاد المائي وأقواس بازلتية صامدة منذ مئات السنين.",
+      "en": "Umm al-Jimal is a unique archaeological site constructed entirely of black basalt rock, renowned for its ancient water harvesting system and remarkable cantilevered arches."
+    },
+    "landmarks": [
+      {
+        "name": { "ar": "كنيسة جوليانوس", "en": "Julianos Church" },
+        "lat": 32.3282, "lng": 36.3718,
+        "desc": { "ar": "من أقدم كنائس الموقع وتتميز بأرضياتها وهندستها البيزنطية.", "en": "One of the oldest churches featuring Byzantine architecture." }
+      },
+      {
+        "name": { "ar": "الخزانات البازلتية", "en": "Basalt Reservoirs" },
+        "lat": 32.3270, "lng": 36.3710,
+        "desc": { "ar": "نظام مائي متطور لتجميع مياه الأمطار.", "en": "Advanced water collection reservoirs." }
+      }
+    ]
+  },
+  "rihab": {
+    "id": "rihab",
+    "name": {
+      "ar": "رحاب - موطن أقدم الكنائس",
+      "en": "Rihab - Home of Ancient Churches"
+    },
+    "era": {
+      "ar": "الروماني، البيزنطي، الأموي",
+      "en": "Roman, Byzantine, Umayyad"
+    },
+    "unesco": false,
+    "coordinates": { "lat": 32.3256, "lng": 36.0892 },
+    "audio": {
+      "ar": "assets/audio/rihab_ar.mp3",
+      "en": "assets/audio/rihab_en.mp3"
+    },
+    "description": {
+      "ar": "تضم رحاب أكثر من 30 كنيسة أثرية ومغاور تاريخية، وتُعد كنيسة القديس جورجيوس واحدة من أقدم المصليات المسيحية في العالم.",
+      "en": "Rihab holds over 30 ancient churches and historical caves, including St. Georgeous church, one of the oldest Christian worship sites."
+    },
+    "landmarks": []
+  }
+}
